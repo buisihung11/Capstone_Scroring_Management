@@ -1,4 +1,4 @@
-# Sale_your_food
+# Capstonse_Scoring_Management_Mobile
 
 A new Flutter project.
 
